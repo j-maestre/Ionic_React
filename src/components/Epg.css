@@ -3,7 +3,6 @@ ion-slides {
     border-width: 5px;
     width:100%;
     height: 250px;
-    
     /* top: 40%; */
   }
 
@@ -33,9 +32,7 @@ ion-slides {
   ion-slide::-webkit-scrollbar {
     display: none;
   }
-  /* ion-slide h2::after{
-    content: '\A'; white-space: pre;
-  } */
+ 
   ion-slide:active{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
   }
@@ -49,8 +46,6 @@ ion-slides {
     align-content: center;
   }
   .days-nav p{
-    /* width: 100%; */
-    /* height: 100%; */
     display: flex;
     margin: 0%;
     width: 200px;

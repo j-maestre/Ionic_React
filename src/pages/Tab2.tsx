@@ -5,8 +5,7 @@ import './Tab2.css';
 import epg from '../data/epg.json';
 
 let data = {...epg};
-console.log("HOLA??");
-console.log(data.events[1607906700]);
+
 
 
 
